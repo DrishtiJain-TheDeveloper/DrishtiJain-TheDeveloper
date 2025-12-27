@@ -1,78 +1,89 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&size=24&duration=3000&pause=1000&
-  color=7B68EE&center=true&vCenter=true&width=650&
-  lines=Hi+I'm+Drishti+Jain+👋;
-  B.Tech+CSE+Student;
+  font=Fira+Code&size=23&duration=3000&pause=1000&
+  color=5F9EA0&center=true&vCenter=true&width=700&
+  lines=Hi,+I'm+Drishti+Jain+👋;
+  B.Tech+Computer+Science+Student;
   Cloud+Computing+Minor+(AWS+Academy);
-  Interested+in+OS,+Backend+and+Cloud" />
+  Aspiring+Software+%26+Cloud+Engineer" />
 </p>
 
-<!-- PROFILE PHOTO -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="160" style="border-radius: 50%;" />
+  <!-- Replace with your actual profile photo URL -->
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" style="border-radius:50%;" />
 </p>
 
 ---
 
-## 🌸 About Me
-- 🎓 B.Tech in Computer Science (3rd Semester)
+## 👩‍💻 About Me
+I am a **B.Tech Computer Science student** with a strong interest in **Operating Systems, Backend Development, and Cloud Computing**.  
+I enjoy building **practical systems-oriented projects** that strengthen my core CS fundamentals and cloud architecture understanding.
+
+- 🎓 B.Tech CSE (3rd Semester)
 - ☁️ Cloud Computing Minor (AWS Academy)
-- 🧠 Interested in Operating Systems, Backend & Cloud Architecture
-- 💡 Learning by building real-world projects
+- 💡 Strong in fundamentals + hands-on projects
+- 🎯 Actively preparing for **Software / Cloud roles**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming
+### Programming Languages
 - C  
 - C++  
 - Java  
 
-### ☁️ Cloud & Systems
-- AWS (S3, EC2, RDS, CloudWatch, Lambda)
-- Linux
-- Operating Systems
-- DBMS
+### Core Computer Science
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+- CPU Scheduling & Process Management  
 
-### 🔧 Tools
-- Git & GitHub
-- VS Code
-- AWS Academy Labs
+### Cloud & Systems
+- AWS: S3, EC2, RDS, CloudWatch, Lambda  
+- Linux (Ubuntu)  
+
+### Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- AWS Academy Labs  
 
 ---
 
-## 🛠️ Tech Stack (Icons)
+## 🔧 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,aws,linux,git,github,html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,aws,linux,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects (Placement-Focused)
 
 ### 🧠 Intelligent CPU Scheduler Simulator
 🔗 https://github.com/DrishtiJain-TheDeveloper/Intelligent-CPU-Scheduler-Simulator  
-- Simulates CPU scheduling algorithms like FCFS, SJF, Priority & Round Robin.
+- Implemented and compared CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin).
+- Strengthened understanding of **OS scheduling and performance metrics**.
 
 ### 🔐 Secure File Management System (Java)
 🔗 https://github.com/DrishtiJain-TheDeveloper/Secure-File-Management-System  
-- Authentication, encryption, access control, and secure file operations.
+- Built a secure file system with authentication, encryption, and access control.
+- Focus on **security principles and Java OOP design**.
 
 ### 🤖 Safety Training Resource Chatbot
 🔗 https://github.com/DrishtiJain-TheDeveloper/Safety-Training-Resource-Chatbot  
-- Chatbot that answers workplace safety training queries.
+- Chatbot that provides instant answers to workplace safety training queries.
+- Demonstrates **applied problem-solving and user-focused design**.
 
 ### 📦 Courier Tracking System
 🔗 https://github.com/DrishtiJain-TheDeveloper/Courier-Tracking-System  
-- Tracks courier status and delivery updates.
+- Designed a tracking system for courier status and delivery updates.
+- Emphasizes **backend logic and data handling**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrishtiJain-TheDeveloper&show_icons=true&theme=tokyonight" />
 </p>
@@ -88,8 +99,8 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 - 📧 Email: drishtijain882@gmail.com  
 - 💻 GitHub: https://github.com/DrishtiJain-TheDeveloper  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
