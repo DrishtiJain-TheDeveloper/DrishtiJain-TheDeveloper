@@ -6,38 +6,32 @@
 
 ---
 
-<table>
-<tr>
+<h2 align="center">👩‍💻 About Me</h2>
 
-<td width="220">
+<p align="center">
+<img src="YOUR_IMAGE_LINK" width="170" style="border-radius:50%;" />
+</p>
 
-<img src="YOUR_IMAGE_LINK" width="180" style="border-radius:50%;" />
+<h3 align="center">Drishti Jain</h3>
 
-</td>
+<p align="center">
+☁️ Aspiring DevOps Engineer &nbsp; | &nbsp; ⚙️ Backend Developer
+</p>
 
-<td>
-
-# 👩‍💻 Drishti Jain
-
-### ☁️ Aspiring DevOps Engineer  
-### ⚙️ Backend Developer
-
-🎓 B.Tech Computer Science Student  
-
+<p align="center">
+🎓 B.Tech Computer Science Student <br>
 ☁️ Cloud Computing Minor (AWS Academy)
+</p>
 
-🚀 Interested in:
+---
+
+### 🚀 Interests
 - Kubernetes
 - Docker
 - AWS
 - CI/CD Pipelines
 - Linux
 - Backend Development
-
-</td>
-
-</tr>
-</table>
 
 ---
 
