@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=Drishti%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
-
-<h3 align="center">
-🚀 Aspiring DevOps & Cloud Engineer | B.Tech CSE Student
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,45,57&text=Drishti%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Software%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Cloud+Computing+%7C+DevOps+%7C+Backend+Development;Kubernetes+%7C+Docker+%7C+AWS+%7C+Linux;Building+Real-World+Cloud+Native+Projects;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Drishti+Jain+👋;B.Tech+Computer+Science+Student;Cloud+Computing+Minor+(AWS+Academy);Aspiring+Software+%26+Cloud+Engineer;Learning+DevOps+%7C+Kubernetes+%7C+AWS+🚀" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
 
 ---
