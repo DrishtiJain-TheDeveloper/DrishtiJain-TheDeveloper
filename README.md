@@ -1,106 +1,159 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=180&section=header&text=Drishti%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
+
+<h3 align="center">
+🚀 Aspiring DevOps & Cloud Engineer | B.Tech CSE Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&size=23&duration=3000&pause=1000&
-  color=5F9EA0&center=true&vCenter=true&width=700&
-  lines=Hi,+I'm+Drishti+Jain+👋;
-  B.Tech+Computer+Science+Student;
-  Cloud+Computing+Minor+(AWS+Academy);
-  Aspiring+Software+%26+Cloud+Engineer" />
-</p>
-
-<p align="center">
-  <!-- Replace with your actual profile photo URL -->
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="150" style="border-radius:50%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=750&lines=Cloud+Computing+%7C+DevOps+%7C+Backend+Development;Kubernetes+%7C+Docker+%7C+AWS+%7C+Linux;Building+Real-World+Cloud+Native+Projects;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am a **B.Tech Computer Science student** with a strong interest in **Operating Systems, Backend Development, and Cloud Computing**.  
-I enjoy building **practical systems-oriented projects** that strengthen my core CS fundamentals and cloud architecture understanding.
+# 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (3rd Semester)
-- ☁️ Cloud Computing Minor (AWS Academy)
-- 💡 Strong in fundamentals + hands-on projects
-- 🎯 Actively preparing for **Software / Cloud roles**
+🎓 B.Tech Computer Science student passionate about **Cloud Computing, DevOps, Backend Development, and Operating Systems**.
 
----
+💡 I enjoy building practical infrastructure and systems-oriented projects using modern cloud and deployment technologies.
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- C  
-- C++  
-- Java  
-
-### Core Computer Science
-- Operating Systems  
-- DBMS  
-- Computer Networks  
-- CPU Scheduling & Process Management  
-
-### Cloud & Systems
-- AWS: S3, EC2, RDS, CloudWatch, Lambda  
-- Linux (Ubuntu)  
-
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- AWS Academy Labs  
+🚀 Currently focused on:
+- Kubernetes & Containerization
+- CI/CD Pipelines
+- Monitoring & Observability
+- Cloud Infrastructure
+- Linux & Backend Systems
 
 ---
 
-## 🔧 Tech Stack
+# 🛠️ Technical Skills
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,bash" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,jenkins" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📚 Core CS
+- Operating Systems
+- DBMS
+- Computer Networks
+- CPU Scheduling
+- Process Management
+
+---
+
+# 🚀 Featured DevOps Project
+
+## ☁️ Cloud Native Monitoring System
+
+🔹 Built and deployed multi-container applications using Kubernetes
+
+🔹 Configured CI/CD pipelines with Jenkins
+
+🔹 Implemented monitoring using Prometheus & Grafana
+
+🔹 Simulated backend pod failures and recovery scenarios
+
+🔹 Worked with Docker containers, Kubernetes Deployments, Services, and EC2 instances
+
+### ⚡ Tech Stack
+`Docker` `Kubernetes` `Jenkins` `Prometheus` `Grafana` `AWS` `Linux`
+
+---
+
+# 📂 Key Projects
+
+## 🧠 Intelligent CPU Scheduler Simulator
+🔗 [Repository](https://github.com/DrishtiJain-TheDeveloper/Intelligent-CPU-Scheduler-Simulator)
+
+- Implemented FCFS, SJF, Priority, and Round Robin Scheduling
+- Compared scheduling performance metrics
+- Strengthened understanding of OS concepts
+
+---
+
+## 🔐 Secure File Management System
+🔗 [Repository](https://github.com/DrishtiJain-TheDeveloper/Secure-File-Management-System)
+
+- Built secure file handling with authentication and encryption
+- Applied Java OOP principles and access control mechanisms
+- Focused on system security concepts
+
+---
+
+## 🤖 Safety Training Resource Chatbot
+🔗 [Repository](https://github.com/DrishtiJain-TheDeveloper/Safety-Training-Resource-Chatbot)
+
+- Developed chatbot for workplace safety guidance
+- Improved user interaction and information accessibility
+- Focused on practical problem-solving
+
+---
+
+## 📦 Courier Tracking System
+🔗 [Repository](https://github.com/DrishtiJain-TheDeveloper/Courier-Tracking-System)
+
+- Designed backend tracking logic for delivery updates
+- Worked on data handling and process flow
+- Strengthened backend development fundamentals
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,aws,linux,git,github&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DrishtiJain-TheDeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DrishtiJain-TheDeveloper&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrishtiJain-TheDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Key Projects (Placement-Focused)
-
-### 🧠 Intelligent CPU Scheduler Simulator
-🔗 https://github.com/DrishtiJain-TheDeveloper/Intelligent-CPU-Scheduler-Simulator  
-- Implemented and compared CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin).
-- Strengthened understanding of **OS scheduling and performance metrics**.
-
-### 🔐 Secure File Management System (Java)
-🔗 https://github.com/DrishtiJain-TheDeveloper/Secure-File-Management-System  
-- Built a secure file system with authentication, encryption, and access control.
-- Focus on **security principles and Java OOP design**.
-
-### 🤖 Safety Training Resource Chatbot
-🔗 https://github.com/DrishtiJain-TheDeveloper/Safety-Training-Resource-Chatbot  
-- Chatbot that provides instant answers to workplace safety training queries.
-- Demonstrates **applied problem-solving and user-focused design**.
-
-### 📦 Courier Tracking System
-🔗 https://github.com/DrishtiJain-TheDeveloper/Courier-Tracking-System  
-- Designed a tracking system for courier status and delivery updates.
-- Emphasizes **backend logic and data handling**.
-
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrishtiJain-TheDeveloper&show_icons=true&theme=tokyonight" />
-</p>
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DrishtiJain-TheDeveloper&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrishtiJain-TheDeveloper&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrishtiJain-TheDeveloper&theme=tokyo-night" />
+# 📚 Currently Learning
+
+- Kubernetes Networking
+- Helm Charts
+- Advanced CI/CD Pipelines
+- Cloud Architecture Design
+- Monitoring & Observability
 
 ---
 
-## 📫 Contact
-- 📧 Email: drishtijain882@gmail.com  
-- 💻 GitHub: https://github.com/DrishtiJain-TheDeveloper  
+# 📫 Connect With Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+<p align="left">
+📧 Email: <a href="mailto:drishtijain882@gmail.com">drishtijain882@gmail.com</a>
+</p>
+
+<p align="left">
+💻 GitHub: <a href="https://github.com/DrishtiJain-TheDeveloper">DrishtiJain-TheDeveloper</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DrishtiJain-TheDeveloper&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=140&section=footer"/>
