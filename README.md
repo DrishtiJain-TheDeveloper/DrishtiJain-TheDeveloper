@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,45,57&text=Drishti%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Software%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=20"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Drishti+Jain+👋;B.Tech+Computer+Science+Student;Cloud+Computing+Minor+(AWS+Academy);Aspiring+Software+%26+Cloud+Engineer;Learning+DevOps+%7C+Kubernetes+%7C+AWS+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi+There!+I'm+Drishti+Jain+👋;Aspiring+DevOps+Engineer+☁️;Backend+Developer+⚙️;Building+Cloud+Native+Projects" />
 </p>
 
 <p align="center">
