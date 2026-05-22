@@ -1,20 +1,51 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,45,57&text=Drishti%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20Software%20%7C%20Cloud%20Engineer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=24,30,45,57&text=Drishti%20Jain&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Aspiring%20DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descSize=20"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi+There!+I'm+Drishti+Jain+👋;Aspiring+DevOps+Engineer+☁️;Backend+Developer+⚙️;Building+Cloud+Native+Projects" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi+There!+I'm+Drishti+Jain+👋;Aspiring+DevOps+Engineer+☁️;Backend+Developer+⚙️;Learning+Kubernetes+%7C+Docker+%7C+AWS+🚀;Building+Cloud+Native+Projects" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+<table>
+<tr>
 
-🎓 B.Tech Computer Science student passionate about **Cloud Computing, DevOps, Backend Development, and Operating Systems**.
+<td width="220">
 
-💡 I enjoy building practical infrastructure and systems-oriented projects using modern cloud and deployment technologies.
+<img src="YOUR_IMAGE_LINK" width="180" style="border-radius:50%;" />
+
+</td>
+
+<td>
+
+# 👩‍💻 Drishti Jain
+
+### ☁️ Aspiring DevOps Engineer  
+### ⚙️ Backend Developer
+
+🎓 B.Tech Computer Science Student  
+
+☁️ Cloud Computing Minor (AWS Academy)
+
+🚀 Interested in:
+- Kubernetes
+- Docker
+- AWS
+- CI/CD Pipelines
+- Linux
+- Backend Development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌸 About Me
+
+🎓 Passionate about **Cloud Computing, DevOps, Backend Development, and Operating Systems**.
+
+💡 I enjoy building practical infrastructure and systems-oriented projects using modern deployment technologies.
 
 🚀 Currently focused on:
 - Kubernetes & Containerization
@@ -142,18 +173,14 @@
 
 # 📫 Connect With Me
 
-<p align="left">
-📧 Email: <a href="mailto:drishtijain882@gmail.com">drishtijain882@gmail.com</a>
-</p>
+📧 Email: drishtijain882@gmail.com  
 
-<p align="left">
-💻 GitHub: <a href="https://github.com/DrishtiJain-TheDeveloper">DrishtiJain-TheDeveloper</a>
-</p>
+💻 GitHub: https://github.com/DrishtiJain-TheDeveloper
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrishtiJain-TheDeveloper&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DrishtiJain-TheDeveloper&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,30,45,57"/>
